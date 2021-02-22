@@ -15,3 +15,4 @@ class Squares {
 }
 
 export default Squares;
+
